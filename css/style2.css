@@ -13,6 +13,6 @@ button::before {
 }
 
 
-#boton::after {
-    content: '¡Hecho!';
+button:hover::before {
+    content: "¡Hecho!"
 }
